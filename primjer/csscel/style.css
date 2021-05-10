@@ -1,0 +1,26 @@
+.font-style-15{
+    font-size: 1,5rem;
+}
+.font-style-2{
+    font-size: 2rem;
+}
+.font-style-3{
+    font-size: 3rem;
+}
+.boja-1{
+    color:red;
+
+}
+.boja-2{
+    color: green;
+}
+.boja-3{
+    color: blue;
+}
+.boja-1.font-style-2
+{
+    font-style: italic;
+}
+.boja-3.font-style-2{
+    font-size: 4rem;
+}
